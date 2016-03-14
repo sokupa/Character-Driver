@@ -1,0 +1,1 @@
+cmd_/home/sokupa/Advancedsystemprog/Assignment4/drv.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sokupa/Advancedsystemprog/Assignment4/drv.ko /home/sokupa/Advancedsystemprog/Assignment4/drv.o /home/sokupa/Advancedsystemprog/Assignment4/drv.mod.o

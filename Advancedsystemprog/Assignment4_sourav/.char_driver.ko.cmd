@@ -1,0 +1,1 @@
+cmd_/home/sokupa/Advancedsystemprog/Assignment4_sourav/char_driver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sokupa/Advancedsystemprog/Assignment4_sourav/char_driver.ko /home/sokupa/Advancedsystemprog/Assignment4_sourav/char_driver.o /home/sokupa/Advancedsystemprog/Assignment4_sourav/char_driver.mod.o
